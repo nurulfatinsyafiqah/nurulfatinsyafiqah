@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hai, saya Nurul Fatin Syafiqah Binti Hasan! 👋
 
-<!--
-**nurulfatinsyafiqah/nurulfatinsyafiqah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Mengenai Saya
+Saya baru sahaja memulakan perjalanan belajar di GitHub dan dunia pembangunan perisian!
 
-Here are some ideas to get you started:
+- 📚 Saya sedang mempelajari: **Git, GitHub, dan asas pengaturcaraan**
+- 🎯 Matlamat saya: **Membina projek peribadi dan meningkatkan kemahiran koding**
+- 💬 Tanya saya tentang: **Perkara asas yang sedang saya pelajari**
+- 📫 Cara hubungi saya: **[nurulfatinsyafiqah@graduate.utm.my / LinkedIn Anda]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Kemahiran / Bahasa Pengaturcaraan
+- **Bahasa:** HTML, CSS, JavaScript *(tukar mengikut apa yang anda belajar)*
+- **Alatan:** Git, GitHub, VS Code
+
+---
+
+### 📊 Statistik GitHub Saya
+*(Gantikan `USERNAME_ANDA` dengan username GitHub sebenar anda)*
+
+![Statistik GitHub Nurul](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radial)
