@@ -4,7 +4,7 @@
 
   <!-- YOUR PICTURE -->
   <!-- Upload your photo to your repo, name it profile.jpg, and keep the link below as 'profile.jpg' -->
-  <img src="profile.jpg" alt="Profile Picture" width="180" style="border-radius: 50%;" />
+  <img src="profile.jpeg" alt="Profile Picture" width="180" style="border-radius: 50%;" />
 
   ### 🌱 CS Student @ Universiti Teknologi Malaysia (UTM)
   
