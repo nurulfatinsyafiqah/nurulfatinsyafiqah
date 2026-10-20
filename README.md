@@ -32,7 +32,7 @@
 ## 📫 Let's Connect!
 
 * **GitHub:** [@nurulfatinsyafiqah](https://github.com/nurulfatinsyafiqah)
-* **LinkedIn:** [Nurul Fatin Syafiqah Binti Hasan](https://linkedin.com/in/nurulfatinsyafiqah-5a23a4443)
+* **LinkedIn:** [Nurul Fatin Syafiqah Binti Hasan](https://linkedin.com/in/nurul-fatin-syafiqah-5a23a4443)
 * **Email:** [nurulfatinsyafiqah@graduate.utm.my](mailto:nurulfatinsyafiqah@graduate.utm.my)
 
 ---
