@@ -1,22 +1,42 @@
-# Hai, saya Nurul Fatin Syafiqah Binti Hasan! 👋
+# Hi there, I'm Nurul Fatin Syafiqah Binti Hasan 👋
 
-## 👩‍💻 Mengenai Saya
-Saya baru sahaja memulakan perjalanan belajar di GitHub dan dunia pembangunan perisian!
+<div align="center">
 
-- 📚 Saya sedang mempelajari: **Git, GitHub, dan asas pengaturcaraan**
-- 🎯 Matlamat saya: **Membina projek peribadi dan meningkatkan kemahiran koding**
-- 💬 Tanya saya tentang: **Perkara asas yang sedang saya pelajari**
-- 📫 Cara hubungi saya: **[nurulfatinsyafiqah@graduate.utm.my / LinkedIn Anda]**
+  <!-- YOUR PICTURE -->
+  <!-- Upload your photo to your repo, name it profile.jpg, and keep the link below as 'profile.jpg' -->
+  <img src="profile.jpg" alt="Profile Picture" width="180" style="border-radius: 50%;" />
 
----
+  ### 🌱 CS Student @ Universiti Teknologi Malaysia (UTM)
+  
+  *Just starting my journey into tech and data engineering!*
 
-### 🛠️ Kemahiran / Bahasa Pengaturcaraan
-- **Bahasa:** HTML, CSS, JavaScript *(tukar mengikut apa yang anda belajar)*
-- **Alatan:** Git, GitHub, VS Code
+</div>
 
 ---
 
-### 📊 Statistik GitHub Saya
-*(Gantikan `USERNAME_ANDA` dengan username GitHub sebenar anda)*
+## 🚀 About Me
 
-![Statistik GitHub Nurul](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radial)
+* 🎓 **Major:** Bachelor of Computer Science (Data Engineering) at UTM.
+* 💻 **Status:** Beginner coder, learning step-by-step every day.
+* 🎯 **Goals:** Building my foundational skills, exploring programming, and working on cool uni projects.
+
+---
+
+## 🛠️ What I'm Learning
+
+* **Languages:** Python, Java (Basics)
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📫 Let's Connect!
+
+* **GitHub:** [@nurulfatinsyafiqah](https://github.com/nurulfatinsyafiqah)
+* **LinkedIn:** [Nurul Fatin Syafiqah Binti Hasan](https://linkedin.com/in/nurulfatinsyafiqah-5a23a4443)
+* **Email:** [nurulfatinsyafiqah@graduate.utm.my](mailto:nurulfatinsyafiqah@graduate.utm.my)
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by! ✨</sub>
+</div>
